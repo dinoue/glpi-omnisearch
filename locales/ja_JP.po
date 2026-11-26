@@ -20,8 +20,8 @@ msgid ""
 "Search tickets, the knowledge base, assets (name, serial, IP, MAC), users, "
 "software, documents, projects"
 msgstr ""
-"検索対象――チケット、ナレッジベース、情報資産 ( 名前、シリアル番号、MAC アドレ"
-"ス )、ユーザー、ソフトウェア、文書、プロジェクト"
+"検索対象――チケット、ナレッジベース、情報資産 ( 名前、シリアル番号、IP アドレ"
+"ス、MAC アドレス )、ユーザー、ソフトウェア、文書、プロジェクト"
 
 #: templates/search.html.twig
 msgid ""
@@ -107,7 +107,7 @@ msgstr "更新日時"
 
 #: templates/search.html.twig
 msgid "Opened"
-msgstr "対応中"
+msgstr "開始日時"
 
 #: front/search.php
 msgid "Any status"
@@ -115,7 +115,7 @@ msgstr "すべての状態"
 
 #: front/search.php
 msgid "Open (not solved or closed)"
-msgstr "対応中 ( 未解決または未終了 )"
+msgstr "開始 ( 未解決または未終了 )"
 
 #: front/search.php
 msgid "Pending / waiting"
