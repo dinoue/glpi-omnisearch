@@ -115,7 +115,7 @@ msgstr "すべての状態"
 
 #: front/search.php
 msgid "Open (not solved or closed)"
-msgstr "開始 ( 未解決または未終了 )"
+msgstr "対応中 ( 未解決または未終了 )"
 
 #: front/search.php
 msgid "Pending / waiting"
